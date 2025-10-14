@@ -1,0 +1,82 @@
+[01] Entrance|0|0.00|The main entry point.
+[02] Millenium Tower|4|10.00|Dry Ride
+[03] Gaming Arcade|15|8.00|Activity Area
+[04] Car Park|10|140.00|Vehicle Parking
+[05] Day Cottage|0|0.00|Rest/Changing Area
+[06] Lawn A|0|0.00|Open Area
+[07] Snow Kingdom|30|20.00|Major Attraction
+[08] Statue Man|0|0.00|Statue display area
+[09] Restaurant A|30|0.00|Food/Dining Area
+[10] Toilet A|0|0.00|Restroom
+[11] Sultan Fort|0|0.00|Landmark
+[12] Paneer Fort|0|0.00|Landmark
+[13] 108 Pillars|0|0.00|Landmark
+[14] Universal Kingdom|0|0.00|Main park area
+[15] Jump-in-Star|4|10.00|Dry Ride
+[16] Mermaid Ship|5|15.00|Dry Ride
+[17] Enterprise|6|14.00|Dry Ride
+[18] Rock N Roll|5|12.00|Dry Ride
+[19] Go Kart|8|25.00|Dry Ride
+[20] Flying Machine|5|13.00|Dry Ride
+[21] Super Trooper|6|15.00|Dry Ride
+[22] Ferris Wheel|10|12.00|Dry Ride
+[23] Tele Combat|4|10.00|Dry Ride
+[24] Japanese Garden|0|0.00|Rest Area
+[25] Central Fountain|0|0.00|Landmark
+[26] Carousel|7|9.00|Dry Ride
+[27] Octopus|5|11.00|Dry Ride
+[28] FlashDance|6|16.00|Dry Ride
+[29] Jumping Frog|3|8.00|Dry Ride
+[30] Water Ducks|3|7.00|Dry Ride
+[31] Water Chute|6|14.00|Wet Ride
+[32] Classic Car|5|10.00|Dry Ride
+[33] Dashing Cars|5|15.00|Dry Ride
+[34] Carnival Games A|10|10.00|Activity
+[35] Arcade Games|15|8.00|Activity
+[36] Crazy Plane|4|10.00|Dry Ride
+[37] Twister|6|14.00|Dry Ride
+[38] Baby Train|5|8.00|Dry Ride
+[39] Balloon Racer|4|10.00|Dry Ride
+[40] TopGun|6|15.00|Dry Ride
+[41] Quick|0|0.00|Service Point
+[42] Circus Train|5|11.00|Dry Ride
+[43] Aladdin|4|10.00|Dry Ride
+[44] Kangaroo|4|10.00|Dry Ride
+[45] Mini Pirate Ship|4|10.00|Dry Ride
+[46] Mini Swinger|4|10.00|Dry Ride
+[47] Wave Swinger|6|12.00|Dry Ride
+[48] Thrill X|7|16.00|Dry Ride
+[49] Roller Coaster|5|18.00|Dry Ride
+[50] Flying B|5|10.00|Dry Ride
+[51] Mixer|6|12.00|Dry Ride
+[52] London Carpet|5|11.00|Dry Ride
+[53] Nataraja Garden|0|0.00|Landmark
+[54] Raja Mandapam|0|0.00|Landmark
+[55] Viking|5|14.00|Dry Ride
+[56] Santhana Mahal|0|0.00|Hall
+[57] Ther Cottage|0|0.00|Cottage
+[58] Garden Restaurant|30|0.00|Food/Dining Area
+[59] Aqua Kingdom Entrance|0|0.00|Entrance to water park
+[60] Tornado|7|0.00|Wet Ride
+[61] Wave Pool|45|0.00|Wet Ride
+[62] Rain Dance|30|0.00|Wet Ride
+[63] Lazy River|30|0.00|Wet Ride
+[64] Slide Complex|20|0.00|Wet Ride
+[65] Lawn B|0|0.00|Open Area
+[66] Aqua Racer|6|0.00|Wet Ride
+[67] Crazy Cruise|6|0.00|Wet Ride
+[68] Aqua Trail|6|0.00|Wet Ride
+[69] Typhoon Tunnel|7|0.00|Wet Ride
+[70] Float Slide|5|0.00|Wet Ride
+[71] Family Raft|5|0.00|Wet Ride
+[72] Carnival Games B|10|10.00|Activity
+[73] Toilet B|0|0.00|Restroom
+[74] Sea Through Restaurant|30|0.00|Food/Dining Area
+[75] Handi-Craft Shop|15|0.00|Shopping Area
+[76] Horror House|10|15.00|Dry Ride
+[77] Mandapam|0|0.00|Hall
+[78] Pet Zoo|20|5.00|Attraction
+[79] Tea Cups|4|10.00|Dry Ride
+[80] Snack|15|0.00|Food Stand
+[81] Toilet C|0|0.00|Restroom
+[82] Bull|0|0.00|Landmark

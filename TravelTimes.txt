@@ -1,0 +1,91 @@
+[01] Entrance|[02] Millenium Tower|2.5
+[01] Entrance|[04] Car Park|1.0
+[01] Entrance|[14] Universal Kingdom|3.0
+[02] Millenium Tower|[03] Gaming Arcade|1.5
+[03] Gaming Arcade|[04] Car Park|1.2
+[04] Car Park|[05] Day Cottage|2.0
+[05] Day Cottage|[06] Lawn A|1.0
+[06] Lawn A|[07] Snow Kingdom|2.5
+[07] Snow Kingdom|[08] Statue Man|1.5
+[08] Statue Man|[09] Restaurant A|1.0
+[09] Restaurant A|[10] Toilet A|0.5
+[10] Toilet A|[11] Sultan Fort|1.5
+[11] Sultan Fort|[12] Paneer Fort|1.0
+[12] Paneer Fort|[13] 108 Pillars|2.0
+[13] 108 Pillars|[14] Universal Kingdom|1.5
+[13] 108 Pillars|[10] Toilet A|3.0
+[14] Universal Kingdom|[15] Jump-in-Star|2.5
+[15] Jump-in-Star|[16] Mermaid Ship|1.0
+[16] Mermaid Ship|[17] Enterprise|1.5
+[17] Enterprise|[18] Rock N Roll|1.0
+[18] Rock N Roll|[19] Go Kart|2.0
+[19] Go Kart|[20] Flying Machine|1.5
+[20] Flying Machine|[21] Super Trooper|1.0
+[21] Super Trooper|[22] Ferris Wheel|2.5
+[22] Ferris Wheel|[23] Tele Combat|1.5
+[23] Tele Combat|[24] Japanese Garden|1.0
+[24] Japanese Garden|[25] Central Fountain|0.5
+[25] Central Fountain|[26] Carousel|1.0
+[26] Carousel|[27] Octopus|1.5
+[27] Octopus|[28] FlashDance|1.0
+[28] FlashDance|[29] Jumping Frog|2.0
+[29] Jumping Frog|[30] Water Ducks|1.0
+[30] Water Ducks|[31] Water Chute|2.5
+[31] Water Chute|[32] Classic Car|1.5
+[32] Classic Car|[33] Dashing Cars|1.0
+[33] Dashing Cars|[34] Carnival Games A|1.5
+[34] Carnival Games A|[35] Arcade Games|1.0
+[35] Arcade Games|[36] Crazy Plane|2.0
+[36] Crazy Plane|[37] Twister|1.0
+[37] Twister|[38] Baby Train|1.5
+[38] Baby Train|[39] Balloon Racer|1.0
+[39] Balloon Racer|[40] TopGun|2.5
+[40] TopGun|[41] Quick|1.5
+[41] Quick|[42] Circus Train|1.0
+[42] Circus Train|[43] Aladdin|1.5
+[43] Aladdin|[44] Kangaroo|1.0
+[44] Kangaroo|[45] Mini Pirate Ship|2.0
+[45] Mini Pirate Ship|[46] Mini Swinger|1.0
+[46] Mini Swinger|[47] Wave Swinger|1.5
+[47] Wave Swinger|[48] Thrill X|1.0
+[48] Thrill X|[49] Roller Coaster|2.5
+[49] Roller Coaster|[50] Flying B|1.5
+[50] Flying B|[51] Mixer|1.0
+[51] Mixer|[52] London Carpet|1.5
+[52] London Carpet|[53] Nataraja Garden|1.0
+[53] Nataraja Garden|[54] Raja Mandapam|2.0
+[54] Raja Mandapam|[55] Viking|1.5
+[55] Viking|[56] Santhana Mahal|1.0
+[56] Santhana Mahal|[57] Ther Cottage|1.5
+[57] Ther Cottage|[58] Garden Restaurant|1.0
+[58] Garden Restaurant|[59] Aqua Kingdom Entrance|2.5
+[59] Aqua Kingdom Entrance|[60] Tornado|1.5
+[60] Tornado|[61] Wave Pool|1.0
+[61] Wave Pool|[62] Rain Dance|0.5
+[62] Rain Dance|[63] Lazy River|1.0
+[63] Lazy River|[64] Slide Complex|1.5
+[64] Slide Complex|[65] Lawn B|1.0
+[65] Lawn B|[66] Aqua Racer|2.0
+[66] Aqua Racer|[67] Crazy Cruise|1.0
+[67] Crazy Cruise|[68] Aqua Trail|1.5
+[68] Aqua Trail|[69] Typhoon Tunnel|1.0
+[69] Typhoon Tunnel|[70] Float Slide|2.5
+[70] Float Slide|[71] Family Raft|1.5
+[71] Family Raft|[72] Carnival Games B|1.0
+[72] Carnival Games B|[73] Toilet B|0.5
+[73] Toilet B|[74] Sea Through Restaurant|1.5
+[74] Sea Through Restaurant|[75] Handi-Craft Shop|1.0
+[75] Handi-Craft Shop|[76] Horror House|2.0
+[76] Horror House|[77] Mandapam|1.5
+[77] Mandapam|[78] Pet Zoo|1.0
+[78] Pet Zoo|[79] Tea Cups|2.5
+[79] Tea Cups|[80] Snack|2.0
+[80] Snack|[81] Toilet C|1.0
+[81] Toilet C|[82] Bull|1.5
+[82] Bull|[01] Entrance|3.0
+[14] Universal Kingdom|[59] Aqua Kingdom Entrance|4.0
+[03] Gaming Arcade|[35] Arcade Games|1.0
+[07] Snow Kingdom|[76] Horror House|3.5
+PaceMultipliers|Slow Pace|1.25
+PaceMultipliers|Normal Pace|1.00
+PaceMultipliers|Fast Pace|0.75

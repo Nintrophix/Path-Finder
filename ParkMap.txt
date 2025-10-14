@@ -1,0 +1,88 @@
+[01] Entrance|[02] Millenium Tower
+[01] Entrance|[04] Car Park
+[01] Entrance|[14] Universal Kingdom
+[02] Millenium Tower|[03] Gaming Arcade
+[03] Gaming Arcade|[04] Car Park
+[04] Car Park|[05] Day Cottage
+[05] Day Cottage|[06] Lawn A
+[06] Lawn A|[07] Snow Kingdom
+[07] Snow Kingdom|[08] Statue Man
+[08] Statue Man|[09] Restaurant A
+[09] Restaurant A|[10] Toilet A
+[10] Toilet A|[11] Sultan Fort
+[11] Sultan Fort|[12] Paneer Fort
+[12] Paneer Fort|[13] 108 Pillars
+[13] 108 Pillars|[14] Universal Kingdom
+[13] 108 Pillars|[10] Toilet A
+[14] Universal Kingdom|[15] Jump-in-Star
+[15] Jump-in-Star|[16] Mermaid Ship
+[16] Mermaid Ship|[17] Enterprise
+[17] Enterprise|[18] Rock N Roll
+[18] Rock N Roll|[19] Go Kart
+[19] Go Kart|[20] Flying Machine
+[20] Flying Machine|[21] Super Trooper
+[21] Super Trooper|[22] Ferris Wheel
+[22] Ferris Wheel|[23] Tele Combat
+[23] Tele Combat|[24] Japanese Garden
+[24] Japanese Garden|[25] Central Fountain
+[25] Central Fountain|[26] Carousel
+[26] Carousel|[27] Octopus
+[27] Octopus|[28] FlashDance
+[28] FlashDance|[29] Jumping Frog
+[29] Jumping Frog|[30] Water Ducks
+[30] Water Ducks|[31] Water Chute
+[31] Water Chute|[32] Classic Car
+[32] Classic Car|[33] Dashing Cars
+[33] Dashing Cars|[34] Carnival Games A
+[34] Carnival Games A|[35] Arcade Games
+[35] Arcade Games|[36] Crazy Plane
+[36] Crazy Plane|[37] Twister
+[37] Twister|[38] Baby Train
+[38] Baby Train|[39] Balloon Racer
+[39] Balloon Racer|[40] TopGun
+[40] TopGun|[41] Quick
+[41] Quick|[42] Circus Train
+[42] Circus Train|[43] Aladdin
+[43] Aladdin|[44] Kangaroo
+[44] Kangaroo|[45] Mini Pirate Ship
+[45] Mini Pirate Ship|[46] Mini Swinger
+[46] Mini Swinger|[47] Wave Swinger
+[47] Wave Swinger|[48] Thrill X
+[48] Thrill X|[49] Roller Coaster
+[49] Roller Coaster|[50] Flying B
+[50] Flying B|[51] Mixer
+[51] Mixer|[52] London Carpet
+[52] London Carpet|[53] Nataraja Garden
+[53] Nataraja Garden|[54] Raja Mandapam
+[54] Raja Mandapam|[55] Viking
+[55] Viking|[56] Santhana Mahal
+[56] Santhana Mahal|[57] Ther Cottage
+[57] Ther Cottage|[58] Garden Restaurant
+[58] Garden Restaurant|[59] Aqua Kingdom Entrance
+[59] Aqua Kingdom Entrance|[60] Tornado
+[60] Tornado|[61] Wave Pool
+[61] Wave Pool|[62] Rain Dance
+[62] Rain Dance|[63] Lazy River
+[63] Lazy River|[64] Slide Complex
+[64] Slide Complex|[65] Lawn B
+[65] Lawn B|[66] Aqua Racer
+[66] Aqua Racer|[67] Crazy Cruise
+[67] Crazy Cruise|[68] Aqua Trail
+[68] Aqua Trail|[69] Typhoon Tunnel
+[69] Typhoon Tunnel|[70] Float Slide
+[70] Float Slide|[71] Family Raft
+[71] Family Raft|[72] Carnival Games B
+[72] Carnival Games B|[73] Toilet B
+[73] Toilet B|[74] Sea Through Restaurant
+[74] Sea Through Restaurant|[75] Handi-Craft Shop
+[75] Handi-Craft Shop|[76] Horror House
+[76] Horror House|[77] Mandapam
+[77] Mandapam|[78] Pet Zoo
+[78] Pet Zoo|[79] Tea Cups
+[79] Tea Cups|[80] Snack
+[80] Snack|[81] Toilet C
+[81] Toilet C|[82] Bull
+[82] Bull|[01] Entrance
+[14] Universal Kingdom|[59] Aqua Kingdom Entrance
+[03] Gaming Arcade|[35] Arcade Games
+[07] Snow Kingdom|[76] Horror House
