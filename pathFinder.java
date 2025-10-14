@@ -22,7 +22,7 @@ class ParkNode implements Comparable<ParkNode> {
     }
 }
 
-public class AmusementPark extends JFrame {
+public class pathFinder extends JFrame {
     
     // --- Data Structures ---
     private Map<String, Map<String, Double>> travelGraph = new HashMap<>();
@@ -50,7 +50,7 @@ public class AmusementPark extends JFrame {
     private List<JComboBox<String>> destinationDropdowns = new ArrayList<>();
     
     // Constructor
-    public AmusementPark() {
+    public pathFinder() {
         super("Amusement Park Planner");
         
         loadData();
@@ -595,6 +595,6 @@ public class AmusementPark extends JFrame {
     }
     
     public static void main(String[] args) {
-        SwingUtilities.invokeLater(() -> new AmusementPark());
+        SwingUtilities.invokeLater(() -> new pathFinder());
     }
 }
