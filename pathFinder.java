@@ -110,7 +110,7 @@ public class pathFinder extends JFrame {
         allDestinations.addAll(nodes);
         Collections.sort(allDestinations);
         
-        // Load travel times and pace multipliers
+        // Load travel times, pace multipliers
         try (BufferedReader br = new BufferedReader(new FileReader(timeFile))) {
             String line;
             while ((line = br.readLine()) != null) {
