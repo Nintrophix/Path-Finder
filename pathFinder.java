@@ -49,7 +49,7 @@ public class pathFinder extends JFrame {
     
     private List<JComboBox<String>> destinationDropdowns = new ArrayList<>();
     
-    // Constructor
+    // Constructor code
     public pathFinder() {
         super("Amusement Park Planner");
         
