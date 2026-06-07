@@ -66,7 +66,7 @@ public class pathFinder extends JFrame {
         pack(); 
         setLocationRelativeTo(null); 
         setVisible(true);
-    }
+    }// end dimensions
 
     // --- Data Loading Methods (Reads new node names from files) ---
     private void loadData() {
